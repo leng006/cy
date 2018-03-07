@@ -1,0 +1,380 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-size: 16px;
+  font-family: "微软雅黑", Verdana, Tahoma, "宋体", Helvetica, sans-serif;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+fieldset,
+img {
+  border: 0;
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+  font-style: normal;
+  font-weight: normal;
+}
+ol,
+ul {
+  list-style: none;
+}
+.rt {
+  float: right;
+}
+.lf {
+  float: left;
+}
+ul {
+  clear: both;
+  overflow: hidden;
+  width: 100%;
+}
+.ct {
+  text-align: center;
+}
+.fontRig {
+  text-align: right;
+}
+ul,
+li {
+  list-style: none;
+}
+a:link,
+a:visited {
+  text-decoration: none;
+}
+a:hover,
+a:active {
+  text-decoration: none;
+}
+img {
+  border: 0 none;
+}
+.row {
+  margin: 0;
+  padding: 0;
+}
+.themeCo {
+  color: #ff7800;
+}
+.gray {
+  color: #747b83;
+}
+.f20 {
+  font-size: 20px;
+}
+.lineHg {
+  line-height: 36px;
+}
+.textIn {
+  text-indent: 32px;
+}
+.header,
+.box {
+  background: #fff;
+}
+/* .header {
+  height: 80px;
+} */
+.header .logoHead {
+  width: 260px;
+  margin-top:14px;
+}
+/*主导航菜单*/
+#nav-menu {
+  height: 80px;
+  background: #fff;
+  margin: 0 auto;
+}
+#nav-menu .container {
+  position: relative;
+  overflow: visible;
+  z-index: 99;
+}
+#nav-menu .menu {
+  padding: 0 0 0 14px;
+}
+#nav-menu .menu li {
+  position: relative;
+  float: left;
+  padding: 0 8px 0 5px;
+  display: inline;
+  font-size: 14px;
+  z-index: 100;
+}
+#nav-menu .menu li .nav_title{
+  font-weight: normal;
+  display: inline-block;
+  text-align: center;
+  height: 80px;
+}
+#nav-menu .menu li p a.xialaguang {
+  display: inline-block;
+  color: #000;
+  height: 80px;
+  text-decoration: none;
+  font-size: 14px;
+  width: 100px;
+  text-align: center;
+}
+/* #nav-menu .menu li p a.xialaguang :hover {
+  background-color: #FFF;
+  text-align: center;
+  color: #FF7900;
+} */
+#nav-menu .menu li p a.xialaguang span {
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  line-height: 80px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 18px;
+}
+#nav-menu .menu li p a.navhover {
+  background-color: #ff7900;
+  color: #fff;
+  text-align: center;
+}
+#nav-menu .menu li p a.navhover span {
+  cursor: pointer;
+  width: 100px;
+}
+#nav-menu .menu li p a.selected span {
+  cursor: pointer;
+}
+#nav-menu .menu li .children {
+  display: none;
+  width: 100px;
+  background: #FF7900;
+  border-top: 0;
+  line-height: normal;
+}
+#nav-menu .menu li .children li {
+  width: 100px;
+  padding: 6px 0;
+  display: inline-block;
+  font-size: 12px;
+}
+#nav-menu .menu li .children li p {
+  display: block;
+  width: 100%;
+}
+#nav-menu .menu li .children li p a {
+  width: 100%;
+  line-height: 16px;
+  overflow: hidden;
+  padding: 3px 0;
+  display: block;
+  color: #fff;
+  /* text-align: center; */
+  text-decoration: none;
+  font-size: 12px;
+}
+#nav-menu .menu li .children li p a :hover {
+  text-decoration: none;
+  text-align: center;
+}
+#nav-menu .menu li .children li p a span {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+.footer {
+  background: #333;
+  padding: 30px 0;
+}
+.footer .footImg {
+  width: 240px;
+  margin: 0 auto;
+}
+.footer .footCode {
+  margin: 25px 0;
+}
+.footer .main {
+  width: 100%;
+}
+.footer .main li.main_list {
+  width: 20%;
+  float:left;
+}
+.footer .main li.main_list ul.list_children li a,.level{
+  display: inline-block;
+  margin: 4px 0;
+  color: #fff;
+}
+.level{
+  color:#ff7900;
+}
+.level:hover{
+  color:#ff7900;
+}
+.footer_data {
+  background: #2e2e2e;
+  padding:10px 0 4px 0;
+  height: 100px;
+}
+.footer_data p {
+  text-align: center;
+  color: #fff;
+  line-height: 26px;
+  font-size: 14px;
+}
+.banner {
+  width: 100%;
+}
+.banner img {
+  width: 100%;
+}
+.shortNav{
+  padding: 10px 0;
+  background: #f7f6f2;
+  border-bottom: 1px solid #e2e1dd;
+}
+.shortNav a {
+  color: #000;
+}
+.title {
+  margin: 60px 0 30px 0;
+}
+.title h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.title h3 {
+  margin: 10px 0;
+  font-size: 24px;
+}
+.title .botIcon {
+  display: inline-block;
+  width: 10px;
+  height: 9px;
+}
+.module {
+  overflow: hidden;
+  padding-bottom: 60px;
+}
+.paragraph {
+  line-height: 24px;
+  text-indent: 32px;
+  text-align: justify;
+  text-justify: inter-ideograph;
+  /*IE*/
+}
+.imgSize {
+  width: 100%;
+}
+.consulting {
+  margin: 60px 0;
+}
+.consulting p {
+  line-height: 36px;
+}
+.flex {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+  /*IE10还不支持*/
+  display: -ms-flex;
+  -ms-flex-wrap: wrap;
+  -ms-align-items: center;
+  -ms-justify-content: center;
+  display: -moz-flex;
+  -moz-flex-wrap: wrap;
+  -moz-align-items: center;
+  -moz-justify-content: center;
+}
+.fb {
+  font-weight: bold;
+}
+.f12{
+  font-size: 12px;
+}
+.f18 {
+  font-size: 18px;
+}
+.f22 {
+  font-size: 22px;
+}
+@keyframes myfirst {
+  from {
+    transform: rotateY(10deg);
+    -ms-transform: rotateY(10deg);
+    /* IE 9 */
+    -moz-transform: rotateY(10deg);
+    /* Firefox */
+    -webkit-transform: rotateY(10deg);
+    /* Safari 和 Chrome */
+    -o-transform: rotateY(10deg);
+    /* Opera */
+  }
+  to {
+    transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    /* IE 9 */
+    -moz-transform: rotateY(360deg);
+    /* Firefox */
+    -webkit-transform: rotateY(360deg);
+    /* Safari 和 Chrome */
+    -o-transform: rotateY(360deg);
+    /* Opera */
+  }
+}
+#goTop{
+  display: none;
+  width: 55px;
+  height: 55px;
+  position: fixed;
+  bottom: 50px;
+  right: 40px;
+  cursor: pointer;
+}
+#goTop span{
+  display: block;
+  width: 55px;
+  color: #dddddd;
+  text-align: center;
+}

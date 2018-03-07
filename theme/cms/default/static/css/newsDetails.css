@@ -1,0 +1,27 @@
+.info {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 300;
+  color: #a3afb7;
+}
+.articles{
+  margin: 50px 0;
+}
+.articles h1 {
+  padding-bottom:20px;
+}
+.articles .info {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 300;
+  color: #a3afb7;
+  padding-bottom: 20px;
+}
+.articles .content {
+  line-height: 36px;
+}
+/* 新闻详情 */
+.detail_img{
+  width: 400px;
+  margin: 0 auto;
+}

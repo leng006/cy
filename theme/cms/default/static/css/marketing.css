@@ -1,0 +1,127 @@
+.mobile_preface p {
+  text-align: center;
+  line-height: 36px;
+  text-indent: 32px;
+}
+.misuTL {
+  margin: 60px 0 30px 0;
+}
+.misuTL .shortTitle {
+  width: 600px;
+  margin: 10px auto;
+  line-height: 36px;
+}
+.ascendancyCont,
+.appletCont {
+  width: 80%;
+  margin: 0 10%;
+}
+.solutions_cloud .misuTL h1 {
+  font-size: 24px;
+}
+.solutions_cloud .misuTL h1 span {
+  font-size: 24px;
+}
+.solutions_cloud .misuTL h3 {
+  font-size: 16px;
+  margin: 20px 0;
+}
+.solutions_cloud .ascendancy {
+  overflow: hidden;
+}
+.ascendancyCont {
+  float: left;
+}
+.ascendancyCont ul li {
+  display: flex;
+  overflow: hidden;
+  margin: 15px 0;
+}
+.ascendancyCont ul li .themeCircle {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: #ff7900;
+  color: #fff;
+  float: left;
+}
+.ascendancyCont ul li .themeCircle span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 45px;
+  text-align: center;
+}
+.ascendancyCont ul li .ascendancyList {
+  margin-left: 10px;
+  float: left;
+}
+.ascendancyCont ul li .ascendancyList span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 45px;
+}
+.ascendancyCont h3 {
+  margin-top: 30px;
+}
+.ascendancyCont p {
+  line-height: 36px;
+}
+.ascendancyCont .ascendancyImg {
+  width: 550px;
+  overflow: hidden;
+}
+.solutions_applet .appletCont {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.solutions_applet .appletCont .appletCont_literals {
+  width: 170px;
+}
+.solutions_applet .appletCont .appletCont_literals h3 {
+  margin: 20px 0;
+}
+.solutions_applet .appletCont .appletCont_literals p {
+  line-height: 26px;
+}
+.solutions_applet .appletCont .appletCont_img {
+  width: 550px;
+}
+.solutions_website .websiteImg {
+  width: 800px;
+  margin: 0 auto;
+}
+.websiteImg {
+  width: 100%;
+}
+.ascendancy {
+  overflow: hidden;
+}
+.youzhuo {
+  line-height: 24px;
+  margin-bottom: 40px;
+}
+.milkPanel {
+  margin: 20px 0;
+}
+.milkPanel .milkImg {
+  display: inline-block;
+}
+.milkPanel .milkImg img {
+  opacity: 0.9;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.milkPanel .milkImg:hover img {
+  opacity: 1;
+  -webkit-transform: scale(0.95);
+  transform: scale(0.95);
+}
+.mrRt {
+  margin-right: 26px;
+}

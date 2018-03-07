@@ -1,0 +1,116 @@
+---------------------------------------------------------------
+[ 2017-11-24T17:01:46+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.032749s][吞吐率：30.54req/s] [内存消耗：3,578.05kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:03:03+08:00 ] 172.18.28.65 47.93.112.232 GET /
+[ info ] 59.110.0.214:80/ [运行时间：0.030502s][吞吐率：32.78req/s] [内存消耗：3,577.99kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:05:26+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.029360s][吞吐率：34.06req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:05:28+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030493s][吞吐率：32.79req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:07:40+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028479s][吞吐率：35.11req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:30+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028768s][吞吐率：34.76req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:31+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030430s][吞吐率：32.86req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:31+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028871s][吞吐率：34.64req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:32+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030450s][吞吐率：32.84req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:32+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028555s][吞吐率：35.02req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:32+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030310s][吞吐率：32.99req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:32+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030819s][吞吐率：32.45req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:33+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.030409s][吞吐率：32.89req/s] [内存消耗：3,578.44kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:33+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028635s][吞吐率：34.92req/s] [内存消耗：3,578.37kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:47+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.029650s][吞吐率：33.73req/s] [内存消耗：3,578.09kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:48+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027898s][吞吐率：35.85req/s] [内存消耗：3,578.23kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:48+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027813s][吞吐率：35.95req/s] [内存消耗：3,578.23kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:48+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027194s][吞吐率：36.77req/s] [内存消耗：3,578.23kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:08:48+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027438s][吞吐率：36.45req/s] [内存消耗：3,578.23kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:09:41+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028818s][吞吐率：34.70req/s] [内存消耗：3,578.37kb] [文件加载：54]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'hisiphp'@'localhost' (using password: YES)[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:10:59+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027135s][吞吐率：36.85req/s] [内存消耗：3,578.20kb] [文件加载：54]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'hisiphp'[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:11:03+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.028537s][吞吐率：35.04req/s] [内存消耗：3,578.20kb] [文件加载：54]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'hisiphp'[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:11:04+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.026871s][吞吐率：37.21req/s] [内存消耗：3,578.20kb] [文件加载：54]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'hisiphp'[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:11:05+08:00 ] 172.18.28.65 58.20.57.96 GET /
+[ info ] ciya.misushop.cn/ [运行时间：0.027463s][吞吐率：36.41req/s] [内存消耗：3,578.20kb] [文件加载：54]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'hisiphp'[/www/wwwroot/ciya/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-11-24T17:12:20+08:00 ] 172.18.28.65 58.20.57.96 GET /index.php/aboutUs.html
+[ info ] ciya.misushop.cn/index.php/aboutUs.html [运行时间：0.041171s][吞吐率：24.29req/s] [内存消耗：4,402.48kb] [文件加载：74]
+[ error ] [0]模板文件不存在:theme/cms/default/index/aboutUS.php[/www/wwwroot/ciya/thinkphp/library/think/view/driver/Think.php:80]
+---------------------------------------------------------------
+[ 2017-11-24T17:19:05+08:00 ] 172.18.28.65 58.20.57.96 GET /index.php/aboutUs.html
+[ info ] ciya.misushop.cn/index.php/aboutUs.html [运行时间：0.041235s][吞吐率：24.25req/s] [内存消耗：4,402.48kb] [文件加载：74]
+[ error ] [0]模板文件不存在:theme/cms/default/index/aboutUS.php[/www/wwwroot/ciya/thinkphp/library/think/view/driver/Think.php:80]
+---------------------------------------------------------------
+[ 2017-11-24T17:20:01+08:00 ] 172.18.28.65 58.20.57.96 GET /index.php/cms/index/aboutUs
+[ info ] ciya.misushop.cn/index.php/cms/index/aboutUs [运行时间：0.040038s][吞吐率：24.98req/s] [内存消耗：4,396.94kb] [文件加载：74]
+[ error ] [0]模板文件不存在:theme/cms/default/index/aboutUS.php[/www/wwwroot/ciya/thinkphp/library/think/view/driver/Think.php:80]
+---------------------------------------------------------------
+[ 2017-11-24T17:21:44+08:00 ] 172.18.28.65 58.20.57.96 GET /index.php/aboutUs.html
+[ info ] ciya.misushop.cn/index.php/aboutUs.html [运行时间：0.040363s][吞吐率：24.78req/s] [内存消耗：4,402.48kb] [文件加载：74]
+[ error ] [0]模板文件不存在:theme/cms/default/index/aboutUS.php[/www/wwwroot/ciya/thinkphp/library/think/view/driver/Think.php:80]
+---------------------------------------------------------------
+[ 2017-11-24T17:22:46+08:00 ] 172.18.28.65 58.20.57.96 GET /index.php/aboutUs.html
+[ info ] ciya.misushop.cn/index.php/aboutUs.html [运行时间：0.041335s][吞吐率：24.19req/s] [内存消耗：4,402.55kb] [文件加载：74]
+[ error ] [0]模板文件不存在:theme/cms/default/index/aboutUS.php[/www/wwwroot/ciya/thinkphp/library/think/view/driver/Think.php:80]

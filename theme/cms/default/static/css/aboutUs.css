@@ -1,0 +1,46 @@
+.aboutBg {
+  background: #f7f6f2;
+}
+.aboutBg .honor {
+  margin-top: 50px;
+}
+.aboutBg .introducePro {
+  padding: 0 15px;
+}
+.jianjie {
+  width: 64px;
+  height: 64px;
+}
+.jianjie img {
+  height: 100%;
+}
+.introduce h4 {
+  margin: 30px 0 60px 0;
+}
+.culture .cultrueCon .cultureImg {
+  width: 117px;
+  margin: 0 auto;
+}
+.culture .cultrueCon h4,
+.culture .cultrueCon p {
+  text-align: center;
+  line-height: 36px;
+}
+.culture .pyramids {
+  margin: 20px 0;
+}
+.history {
+  background: #f7f6f2;
+}
+.partners {
+  margin-top: 60px;
+}
+.merchant:hover img {
+  animation: myfirst 1s;
+  /* Firefox: */
+  -moz-animation: myfirst 1s;
+  /* Safari 和 Chrome: */
+  -webkit-animation: myfirst 1s;
+  /* Opera: */
+  -o-animation: myfirst 1s;
+}

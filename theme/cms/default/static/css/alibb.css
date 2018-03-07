@@ -1,0 +1,146 @@
+.ali_preface p {
+  text-align: center;
+  text-indent: 32px;
+  line-height: 36px;
+}
+.ali_preface h3 {
+  text-align: center;
+  margin:60px 0 20px 0;
+}
+.ali_two,
+.ali_three {
+  margin: 50px 0;
+}
+.ali_one .ali_one_title h4 {
+  margin: 30px 0;
+}
+.ali_one .ali_one_content {
+  color: #fff;
+}
+.ali_one .ali_one_content .one_content_list {
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+.ali_one .ali_one_content .ali_site {
+  background: url('../image/business/alibb/site.png') 0 0 no-repeat;
+}
+.ali_one .ali_one_content .ali_client {
+  background: url('../image/business/alibb/client.png') 0 0 no-repeat;
+}
+.ali_one .ali_one_content .ali_transact {
+  background: url('../image/business/alibb/transact.png') 0 0 no-repeat;
+}
+.ali_one .ali_one_content .ali_tools {
+  background: url('../image/business/alibb/tools.png') 0 0 no-repeat;
+}
+.one_content_literals {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
+.one_content_literals h1,
+.one_content_literals p {
+  text-align: center;
+}
+.one_content_literals p {
+  line-height: 26px;
+}
+.one_content_literals h1 {
+  margin: 10px 0;
+}
+.ali_two .ali_two_content {
+  margin: 40px 0;
+  overflow: hidden;
+}
+.ali_two .ali_two_content .ali_two_circle {
+  width: 125px;
+  height: 125px;
+  text-align: center;
+  border-radius: 50%;
+  color: #fff;
+  float: left;
+}
+.ali_two .ali_two_content .ali_two_circle p {
+  width: 125px;
+  height: 125px;
+  vertical-align: middle;
+  display: table-cell;
+  text-align: center;
+}
+.ali_two .ali_two_content .ali_two_circle p span {
+  font-size: 24px;
+}
+.ali_two .ali_two_content .ali_two_arrow {
+  width: 80px;
+  height: 125px;
+  float: left;
+  text-align: center;
+}
+.ali_two .ali_two_content .ali_two_arrow span {
+  display: inline-block;
+  line-height: 125px;
+}
+.ali_two .ali_two_content .ali_design {
+  background: #6439d1;
+}
+.ali_two .ali_two_content .ali_schem {
+  background: #d13a5d;
+}
+.ali_two .ali_two_content .ali_service {
+  background: #ee8009;
+}
+.ali_two .ali_two_content .ali_operation {
+  background: #d2a83a;
+}
+.ali_two .ali_two_content .ali_administer {
+  background: #d139c0;
+}
+.ali_two .ali_two_content .ali_shoot {
+  background: #afd23a;
+}
+.ali_two .ali_two_partners .partnersList {
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+}
+.ali_two .ali_two_partners .partnersList:hover img {
+  animation: myfirst 1s;
+  /* Firefox: */
+  -moz-animation: myfirst 1s;
+  /* Safari 和 Chrome: */
+  -webkit-animation: myfirst 1s;
+  /* Opera: */
+  -o-animation: myfirst 1s;
+}
+.ali_three .netSales {
+  margin: 40px 0;
+}
+.ali_three .netSales .rank .rankCon {
+  margin: 0 30px;
+}
+.ali_caseCon {
+  margin-bottom: 60px;
+}
+.caseParagraph {
+  margin: 20px 0;
+}
+.caseShowImg {
+  width: 550px;
+  height: 300px;
+  overflow: hidden;
+}
+.caseShowImg img {
+  opacity: 0.9;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  transform: scale(1);
+}
+.caseShowImg:hover img {
+  opacity: 1;
+  -webkit-transform: scale(1.15);
+  -moz-transform: scale(1.15);
+  transform: scale(1.15);
+}

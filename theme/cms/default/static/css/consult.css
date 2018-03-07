@@ -1,0 +1,45 @@
+.smortList {
+  margin: 30px 0;
+}
+.strategic {
+  margin: 0 auto;
+}
+.liaison {
+  margin-bottom: 60px;
+}
+.hotlineRow {
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+.hotlineRow .hotline .hotlineTitle {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background: #ff7900;
+  color: #fff;
+}
+.hotlineRow .hotline .hotlineCon {
+  height: 175px;
+  background: #f7f6f2;
+  padding: 10px;
+  -moz-box-shadow: 0px 5px 5px #e4e4e4;
+  /* 老的 Firefox */
+  box-shadow: 0px 5px 5px #e4e4e4;
+}
+.hotlineRow .hotline .hotlineCon p {
+  line-height: 32px;
+}
+.consultMain .consultList {
+  margin-bottom: 40px;
+}
+.consultMain .consultList .consultImg {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+.consultMain .consultList h3 {
+  margin: 10px 0;
+}
+.consultMain .consultList p {
+  line-height: 36px;
+}

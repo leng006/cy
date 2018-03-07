@@ -1,0 +1,61 @@
+.collegeShow {
+  margin: 40px 0;
+}
+.collegeShow .collegeImg {
+  width: 360px;
+  height: 270px;
+  overflow: hidden;
+}
+.trainTb {
+  margin-top: 40px;
+}
+.trainTb .train {
+  border-bottom: 2px solid #ff7900;
+}
+.arr {
+  display: inline-block;
+  width: 11px;
+  height: 10px;
+}
+.parallel {
+  background: url('../images/business/college/parallel.png') 0 0 no-repeat;
+}
+.arrGroup {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 40px;
+}
+.arrGroup .upward {
+  background: url('../images/business/college/upward.png') 0 0 no-repeat;
+}
+.arrGroup .down {
+  background: url('../images/business/college/down.png') 0 0 no-repeat;
+}
+.caseRow {
+  overflow: hidden;
+}
+.caseRow .caseTitle {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ff7900;
+}
+.caseRow .duckCon {
+  margin-top: 60px;
+}
+.scaleImg {
+  width: 390px;
+  overflow: hidden;
+}
+.scaleImg img,.collegeImg img{
+  opacity: 0.9;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  transform: scale(1);
+}
+.scaleImg:hover img,.collegeImg:hover img{
+  opacity: 1;
+  -webkit-transform: scale(1.15);
+  -moz-transform: scale(1.15);
+  transform: scale(1.15);
+}

@@ -1,0 +1,110 @@
+.header,
+.box {
+  background: #FF7900;
+}
+.header {
+  height: 80px;
+}
+.header .logoHead {
+  width: 260px;
+  height: 80px;
+}
+/*主导航菜单*/
+#nav-menu {
+  height: 80px;
+  background: #FF7900;
+  margin: 0 auto;
+}
+#nav-menu .container {
+  position: relative;
+  overflow: visible;
+  z-index: 99;
+}
+#nav-menu .menu {
+  padding: 0 0 0 14px;
+}
+#nav-menu .menu li {
+  position: relative;
+  float: left;
+  padding: 0 8px 0 5px;
+  display: inline;
+  font-size: 14px;
+}
+#nav-menu .menu li h3 {
+  font-weight: normal;
+  display: inline-block;
+  text-align: center;
+}
+#nav-menu .menu li h3 a.xialaguang {
+  color: #FFF;
+  height: 80px;
+  text-decoration: none;
+  font-size: 14px;
+  width: 100px;
+  text-align: center;
+}
+#nav-menu .menu li h3 a.xialaguang :hover {
+  background-color: #FFF;
+  text-align: center;
+  color: #FF7900;
+}
+#nav-menu .menu li h3 a.xialaguang span {
+  height: 30px;
+  cursor: pointer;
+  width: 100px;
+  line-height: 25px;
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+}
+#nav-menu .menu li h3 a.navhover {
+  background-color: #FFF;
+  color: #FF7900;
+  text-align: center;
+}
+#nav-menu .menu li h3 a.navhover span {
+  cursor: pointer;
+  width: 100px;
+}
+#nav-menu .menu li h3 a.selected span {
+  cursor: pointer;
+}
+#nav-menu .menu li .children {
+  display: none;
+  width: 100px;
+  background: #FFF;
+  border: 2px solid #FF7900;
+  border-top: 0;
+  line-height: normal;
+}
+#nav-menu .menu li .children li {
+  width: 100px;
+  padding: 0px;
+  display: inline-block;
+  font-size: 12px;
+  border-top: 1px solid #ccc;
+}
+#nav-menu .menu li .children li h3 {
+  display: block;
+  width: 100%;
+}
+#nav-menu .menu li .children li h3 a {
+  width: 100%;
+  line-height: 16px;
+  overflow: hidden;
+  padding: 3px 0;
+  display: block;
+  color: #FF7900;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+}
+#nav-menu .menu li .children li h3 a :hover {
+  text-decoration: none;
+  text-align: center;
+}
+#nav-menu .menu li .children li h3 a span {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,168 @@
+.talent {
+  display: flex;
+  width: 730px;
+  margin: 0 auto;
+}
+.talent .talentShow {
+  display: inline-block;
+  flex: 1;
+  width: 170px;
+  height: 185px;
+  vertical-align: middle;
+  margin: 0 4px;
+  position: relative;
+}
+.talent .talentShow img {
+  width: 100%;
+}
+.talentMid {
+  width: 1080px;
+  margin: 0 auto;
+}
+.talentMid .talentMidImg {
+  position: relative;
+  display: inline-block;
+  width: 170px;
+}
+.talentMid .talentCon {
+  display: inline-block;
+  width: 730px;
+  height: 185px;
+  background: #f7f6f2;
+  vertical-align: middle;
+  padding-top: 10px;
+}
+.talentMid .talentCon h2 {
+  margin: 20px 0;
+}
+.talentMid .talentCon h3 {
+  line-height: 40px;
+}
+.smallSquare,
+.bigSquare {
+  position: absolute;
+}
+.bigSquare,
+.lastShow_big {
+  width: 60px;
+  height: 60px;
+  background: #cecece;
+}
+.smallSquare,
+.lastShow_small {
+  width: 35px;
+  height: 35px;
+  background: #e2e2e2;
+}
+.talentShowFirst .bigSquare {
+  left: -70px;
+  top: 0;
+}
+.talentShowFirst .smallSquare {
+  top: -45px;
+  left: 0;
+}
+.talentShowSecond .bigSquare {
+  right: -70px;
+  top: 0;
+}
+.talentShowSecond .smallSquare {
+  top: -45px;
+  right: 0;
+}
+.talentShowThree .bigSquare {
+  top: -70px;
+  left: 0;
+}
+.talentShowThree .smallSquare {
+  top: 0;
+  left: -45px;
+}
+.talentShowFour .bigSquare {
+  bottom: -70px;
+  right: 0;
+}
+.talentShowFour .smallSquare {
+  bottom: 0;
+  right: -45px;
+}
+.talentShowFive .bigSquare {
+  left: -70px;
+  bottom: 0;
+}
+.talentShowSix .smallSquare {
+  right: -45px;
+  bottom: 0;
+}
+.talentShowSix .bigSquare {
+  bottom: -70px;
+  right: 0;
+}
+.talentShowSix .lastShow_small {
+  position: absolute;
+  bottom: -45px;
+  right: 70px;
+}
+.searchImg {
+  margin: 20px 0 10px 0;
+}
+.campus p {
+  margin: 20px 0;
+}
+.campus .campusFlow {
+  margin: 0 auto;
+  width: 1010px;
+}
+.campus .campusFlow .campusCircle {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  float: left;
+  background: #ff7900;
+  color: #fff;
+  border-radius: 50%;
+}
+.campus .campusFlow .campusCircle span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 100px;
+  text-align: center;
+}
+.campus .campusFlow .campusArrow {
+  float: left;
+  width: 80px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+.btnDetails {
+  cursor: pointer;
+}
+.recruit {
+  margin: 20px 0;
+  background: #f7f6f2;
+  padding: 10px;
+  border-radius: 6px;
+}
+.recruit .jobs {
+  overflow: hidden;
+  padding: 10px 0;
+  border-bottom: 1px solid #e1e1e1;
+}
+.recruit .duty,
+.recruit .ask {
+  margin-top: 30px;
+}
+.recruit .duty h3,
+.recruit .ask h3 {
+  margin: 10px 0;
+}
+.recruit .duty li,
+.recruit .ask li {
+  margin: 10px 0;
+}
+.recruit .contactUs {
+  padding: 10px 0;
+  border-top: 1px solid #e1e1e1;
+}

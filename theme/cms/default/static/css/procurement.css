@@ -1,0 +1,216 @@
+.featureLists {
+  margin: 40px 0;
+}
+.featureLists .featureList {
+  height: 440px;
+}
+.featureLists .featureList h3 {
+  margin-top: 30px;
+}
+.featureLists .featureList p {
+  margin: 20px 0;
+}
+.featureLists .featureList li {
+  text-align: center;
+  margin: 20px 0;
+}
+.featureLists .featureList .featureSaas {
+  border-top: 2px solid #ff7900;
+  background: #f7f6f2;
+}
+.featureLists .featureList .featureSelection {
+  border-top: 2px solid #00afaa;
+  background: #ebf2f2;
+}
+.featureLists .featureList .featureFinance {
+  border-top: 2px solid #0182c3;
+  background: #eff4f6;
+}
+.featureLists .featureList .featureEcological {
+  border-top: 2px solid #8248ae;
+  background: #f3eff5;
+}
+.featureLists .featureList .featureSaas,
+.featureLists .featureList .featureFinance {
+  animation: floatTop 5s linear 0s infinite alternate;
+  /* Firefox: */
+  -moz-animation: floatTop 5s linear 0s infinite alternate;
+  /* Safari 和 Chrome: */
+  -webkit-animation: floatTop 5s linear 0s infinite alternate;
+  /* Opera: */
+  -o-animation: floatTop 5s linear 0s infinite alternate;
+}
+.featureLists .featureList .featureSelection,
+.featureLists .featureList .featureEcological {
+  animation: floatBot 5s linear 0s infinite alternate;
+  /* Firefox: */
+  -moz-animation: floatBot 5s linear 0s infinite alternate;
+  /* Safari 和 Chrome: */
+  -webkit-animation: floatBot 5s linear 0s infinite alternate;
+  /* Opera: */
+  -o-animation: floatBot 5s linear 0s infinite alternate;
+}
+.featureLists .featureList .featureFinance:hover {
+  animation-play-state: paused;
+  -webkit-animation-play-state: paused;
+  /* Safari 和 Chrome */
+}
+.featureLists .featureList .featureSelection:hover {
+  animation-play-state: paused;
+  -webkit-animation-play-state: paused;
+  /* Safari 和 Chrome */
+}
+.featureLists .featureList .featureEcological:hover {
+  animation-play-state: paused;
+  -webkit-animation-play-state: paused;
+  /* Safari 和 Chrome */
+}
+.featureLists .featureList .featureSaas:hover {
+  animation-play-state: paused;
+  -webkit-animation-play-state: paused;
+  /* Safari 和 Chrome */
+}
+.featureLists .featureList .featureSaas,
+.featureLists .featureList .featureSelection,
+.featureLists .featureList .featureFinance,
+.featureLists .featureList .featureEcological {
+  height: 100%;
+}
+@keyframes floatTop {
+  from {
+    transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    /* IE 9 */
+    -moz-transform: translateY(10px);
+    /* Firefox */
+    -webkit-transform: translateY(10px);
+    /* Safari 和 Chrome */
+    -o-transform: translateY(10px);
+    /* Opera */
+  }
+  to {
+    transform: translateY(-25px);
+    -ms-transform: translateY(-25px);
+    /* IE 9 */
+    -moz-transform: translateY(-25px);
+    /* Firefox */
+    -webkit-transform: translateY(-25px);
+    /* Safari 和 Chrome */
+    -o-transform: translateY(-25px);
+    /* Opera */
+  }
+}
+@keyframes floatBot {
+  from {
+    transform: translateY(-25px);
+    -ms-transform: translateY(-25px);
+    /* IE 9 */
+    -moz-transform: translateY(-25px);
+    /* Firefox */
+    -webkit-transform: translateY(-25px);
+    /* Safari 和 Chrome */
+    -o-transform: translateY(-25px);
+    /* Opera */
+  }
+  to {
+    transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    /* IE 9 */
+    -moz-transform: translateY(10px);
+    /* Firefox */
+    -webkit-transform: translateY(10px);
+    /* Safari 和 Chrome */
+    -o-transform: translateY(10px);
+    /* Opera */
+  }
+}
+.coreCon .coreList {
+  height: 120px;
+  margin-bottom: 20px;
+}
+.coreCon .coreList .coreIcon {
+  width: 250px;
+  height: 100%;
+  background: #f7f6f2;
+}
+.coreCon .coreList .coreDot {
+  height: 100%;
+  line-height: 120px;
+  align-items: center;
+  margin-left: 20px;
+}
+.coreCon .coreList .corePan {
+  line-height: 120px;
+  font-size: 15px;
+}
+.coreCon .purchasers {
+  overflow: hidden;
+  margin: 60px 0;
+}
+.coreCon .purchasers .purCircle {
+  height: 480px;
+  width: 480px;
+  background: #ff7900;
+  color: #fff;
+}
+.coreCon .purchasers .purCircle .perCon {
+  width: 480px;
+  height: 480px;
+  vertical-align: middle;
+  display: table-cell;
+}
+.coreCon .purchasers .purCircle .purCircle_con {
+  width: 100%;
+  text-align: center;
+}
+.coreCon .purchasers .purCircle .f100 {
+  font-size: 150px;
+}
+.coreCon .purchasers .purCircle .purP {
+  font-size: 18px;
+  line-height: 28px;
+}
+.coreCon .purchasers .purCircle .f40 {
+  font-size: 40px;
+}
+.coreCon .purchasers .purchaserList .purchaserListImg {
+  height: 120px;
+  line-height: 120px;
+}
+.coreCon .purchasers .purchaserList .purchaserListImg:hover img {
+  animation: myfirst 1s;
+  /* Firefox: */
+  -moz-animation: myfirst 1s;
+  /* Safari 和 Chrome: */
+  -webkit-animation: myfirst 1s;
+  /* Opera: */
+  -o-animation: myfirst 1s;
+}
+.case .caseTitle {
+  background: #ff7900;
+  height: 85px;
+  line-height: 85px;
+  text-align: center;
+  color: #fff;
+}
+.case .caseConTop {
+  background: #f7f6f2;
+  height: 150px;
+  border-bottom: 1px solid #ff7900;
+  padding: 10px 10px 0 10px;
+}
+.case .caseConBottom {
+  background: #f7f6f2;
+  height: 160px;
+  padding: 20px 10px 0 10px;
+}
+.case .caseFoot {
+  background: #414b5e;
+  color: #fff;
+  height: 125px;
+  padding: 10px 10px 0 10px;
+}
+.case p {
+  line-height: 36px;
+  text-align: center;
+}

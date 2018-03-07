@@ -1,0 +1,37 @@
+.footer {
+  background: #F7F6F2;
+  padding: 10px 0;
+}
+.footer .footImg {
+  width: 240px;
+  margin: 0 auto;
+}
+.footer .footCode {
+  margin: 25px 0;
+}
+.footer .main {
+  display: flex;
+}
+.footer .main li.main_list {
+  flex: 1;
+}
+.level{
+  display: inline-block;
+  margin: 4px 0;
+  color:#000;
+}
+.footer .main li.main_list ul.list_children li a {
+  display: inline-block;
+  margin: 4px 0;
+  color: #778490;
+}
+.footer_data {
+  background: #ff7900;
+  padding: 4px 0;
+  height: 100px;
+}
+.footer_data p {
+  text-align: center;
+  color: #fff;
+  line-height: 32px;
+}
